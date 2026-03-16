@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=Emelia%20Music%20Bot&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Feature-Rich%20Telegram%20Music%20&%20Group%20Management%20Bot&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=Emelia%20Bot&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Telegram%20Music%20&%20Group%20Manager&descAlignY=55&descSize=15"/>
 </div>
+
+
 
 <p align="center">
   <a href="https://github.com/salman-dev-app/emelia">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Play+Music+on+Telegram;Manage+Groups+with+Ease" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Telegram+Music+Bot;Group+Management+Made+Easy" alt="Typing SVG" />
   </a>
 </p>
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Telegram_Bot-FF6B6B-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.10+-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Telegram-4ECDC4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy-Koyeb-00D9FF?style=for-the-badge&logo=koyeb&logoColor=white" />
   <img src="https://img.shields.io/github/last-commit/salman-dev-app/emelia?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/salman-dev-app/emelia?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/salman-dev-app/emelia?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -20,7 +24,7 @@
 <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" />
-    Emelia Music Bot — Feature-Rich Telegram Music & Group Management Bot
+    A feature-rich Telegram bot for music playback from JioSaavn, group management, and interactive controls — free to deploy on Koyeb.
   </h3>
 </div>
 
@@ -29,34 +33,29 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Quick Links
 
 <p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
   <a href="https://github.com/salman-dev-app/emelia">
-    <img src="https://img.shields.io/badge/Source_Code-View_on_GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mdsalmanhelp0@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Send_Email-4ECDC4?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/Portfolio-View_More_Projects-00D9FF?style=for-the-badge&logo=codesandbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Source-View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Lightbulb" width="30" height="30" style="vertical-align: middle;" /> About The Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" style="vertical-align: middle;" /> Core Features & Capabilities
 
-<p>
-Feature-Rich Telegram Music & Group Management Bot. This project is built with performance, scalability, and clean code in mind, following enterprise-level standards.
-</p>
+<div align="center">
 
----
+### Project Highlights
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="30" height="30" style="vertical-align: middle;" /> Key Features
+</div>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Music Playback</strong> — Stream songs from JioSaavn API with full player controls</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Queue Management</strong> — Advanced song queue with skip, pause, and resume</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Group Management</strong> — Ban, mute, warn, and admin-only controls</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Progress Bar</strong> — Live playback progress with album art display</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Free Deployment</strong> — One-click deploy on Koyeb for free hosting</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Music Playback</strong> — Stream songs from JioSaavn API with play/pause, seek controls, and progress bar</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Queue Management</strong> — Full song queue with album art display and track info</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Group Management</strong> — Ban/unban, mute/unmute users with admin-only controls and warn system</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Free Deployment</strong> — One-click deploy on Koyeb with zero infrastructure cost</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Fast Response</strong> — Optimized async handlers for snappy bot responses</p>
 
 ---
 
@@ -64,19 +63,18 @@ Feature-Rich Telegram Music & Group Management Bot. This project is built with p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,telegram&theme=dark" />
+### Backend
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
+<br/>### Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+
+<br/>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Getting Started
-
-### Prerequisites
-
-Make sure you have the required tools installed before running this project.
-
-### Installation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Installation & Setup
 
 ```bash
 # Clone the repository
@@ -88,19 +86,34 @@ pip install -r requirements.txt
 
 # Configure environment variables
 cp .env.example .env
-# Edit .env with your BOT_TOKEN and API keys
+# Edit .env with your Bot Token, API keys etc.
 
 # Run the bot
 python main.py
 ```
 
+> **Quick Deploy on Koyeb**: Fork repo → Connect to Koyeb → Add environment variables → Deploy 🚀
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle;" /> Repository Stats
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4" alt="Activity Graph" width="100%" >
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" style="vertical-align: middle;" />
+    Let's Build Together
+  </h2>
 </div>
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Available+for+New+Opportunities;Open+to+Freelance+Contracts;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_an_Email-63A4FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -113,37 +126,18 @@ python main.py
 </div>
 
 <p align="center">
-  This project is licensed under the MIT License — feel free to use, modify, and distribute.
+  This project is licensed under the MIT License — feel free to use, modify, and contribute.
 </p>
-
----
-
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party" width="30" height="30" style="vertical-align: middle;" />
-    Let's Connect & Collaborate
-  </h2>
-</div>
-
-<p align="center">
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/VISIT-MY_GITHUB_PROFILE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Made+with+Passion+by+Md+Salman+Biswas;Thanks+for+checking+this+out!;Star+%E2%AD%90+if+you+find+it+useful!" alt="Typing SVG" />
-</div>
-
-<br/>
 
 ---
 
 <footer align="center">
   <p>© 2024-2026 Md Salman Biswas · All rights reserved</p>
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
-  </a>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" style="vertical-align: middle;">
+    </a>
+  </p>
   <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
 </footer>
 
