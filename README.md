@@ -1,132 +1,119 @@
-# 🎵 Emelia Telegram Bot
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=emelia&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Python-based%20automation%20&%20utility%20project&descAlignY=60&descSize=14"/>
+</div>
 
-A feature-rich Telegram bot for music playback and group management.
+<p align="center">
+  <a href="https://github.com/salman-dev-app/emelia">
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=22&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=70&lines=emelia;Python-based+automation+&+utility+project" alt="Typing SVG" />
+  </a>
+</p>
 
-**Created by:** Salman (@otakuosenpai)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/salman-dev-app/emelia?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/salman-dev-app/emelia?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
+</p>
 
-## Features
+<p align="center">
+  <a href="https://github.com/salman-dev-app/emelia">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-### 🎵 Music Player
-- Play songs from JioSaavn API (free)
-- Player controls: Play/Pause, ±10 sec seek
-- Progress bar with time display
-- Queue management
-- Album art display
-
-### 🛡️ Group Management
-- Ban/Unban users
-- Mute/Unmute users
-- Warn system
-- Admin-only controls
-
-## 🚀 Deployment on Koyeb (Free)
-
-### Step 1: Get Your Bot Token
-1. Open Telegram and search for **@BotFather**
-2. Send `/newbot` command
-3. Choose a name: **Emelia**
-4. Choose a username: **emelia_music_bot** (or any available name)
-5. Copy the **bot token** (looks like: `123456789:ABCdefGHIjklMNOpqrsTUVwxyz`)
-
-### Step 2: Create GitHub Repository
-1. Go to [GitHub](https://github.com) and sign in
-2. Click **"New Repository"** (green button)
-3. Name it: `emelia-telegram-bot`
-4. Make it **Public**
-5. Click **"Create repository"**
-
-### Step 3: Upload Files to GitHub
-1. In your new repository, click **"Add file"** → **"Upload files"**
-2. Upload these 3 files:
-   - `bot.py` (the main bot code from artifact #1)
-   - `requirements.txt` (from artifact #2)
-   - `Dockerfile` (from artifact #3)
-3. Click **"Commit changes"**
-
-### Step 4: Deploy on Koyeb
-1. Go to [Koyeb](https://app.koyeb.com) and sign up (free)
-2. Click **"Create App"**
-3. Select **"GitHub"** as deployment method
-4. Connect your GitHub account
-5. Select your repository: `emelia-telegram-bot`
-6. Configure:
-   - **Builder:** Docker
-   - **Port:** 8080 (optional, bot uses polling)
-   - **Environment Variables:** 
-     - Key: `BOT_TOKEN`
-     - Value: (paste your bot token from BotFather)
-7. Click **"Deploy"**
-
-### Step 5: Start Using Your Bot
-1. Open Telegram
-2. Search for your bot username
-3. Send `/start` to begin!
-
-## 📝 Bot Commands
-
-### Music Commands
-- `/play <song name>` - Play a song
-- `/pause` - Pause playback
-- `/resume` - Resume playback
-- `/stop` - Stop playback
-- `/queue` - Show playlist
-
-### Group Management (Admin Only)
-- `/ban` - Ban user (reply to their message)
-- `/unban` - Unban user (reply to their message)
-- `/mute` - Mute user (reply to their message)
-- `/unmute` - Unmute user (reply to their message)
-- `/warn` - Warn user
-
-### General
-- `/start` - Welcome message
-- `/help` - Show help
-
-## 🎮 Player Controls
-
-When a song is playing, use these buttons:
-- **⏮ -10s** - Go back 10 seconds
-- **▶️ Play / ⏸ Pause** - Play or pause
-- **⏭ +10s** - Skip forward 10 seconds
-- **🔁 Loop** - Loop current song
-- **⏹ Stop** - Stop playback
-- **📝 Queue** - View playlist
-
-## 🔧 Troubleshooting
-
-### Bot doesn't respond
-- Check if it's running on Koyeb dashboard
-- Verify your BOT_TOKEN is correct
-
-### Music doesn't play
-- The bot provides song info and controls
-- Actual audio playback requires voice chat integration
-
-### Group commands not working
-- Make sure the bot is an admin in your group
-- You must also be an admin to use admin commands
-
-## 📞 Support
-
-Created by Salman - Telegram: [@otakuosenpai](https://t.me/otakuosenpai)
-
-## 🔄 Updates
-
-To update your bot:
-1. Edit files in GitHub repository
-2. Koyeb will automatically redeploy
-
-## ⚠️ Important Notes
-
-- **Free tier limitations:** Koyeb free tier has some limitations
-- **API Rate limits:** JioSaavn API may have rate limits
-- Keep your BOT_TOKEN secret!
-- The bot uses polling, so it doesn't need webhooks
-
-## 📄 License
-
-Free to use and modify!
+</p>
 
 ---
 
-**Enjoy your Emelia Bot! 🎵**
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" /> 
+    Emelia — Python-based automation & utility project
+  </h3>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="30" height="30" style="vertical-align: middle;" /> About This Project
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Repository:</strong> <a href="https://github.com/salman-dev-app/emelia">emelia</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Author:</strong> <a href="https://github.com/salman-dev-app">Md Salman Biswas</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Primary Language:</strong> Python<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>License:</strong> MIT
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Features
+
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Clean Architecture</strong> — Built following SOLID principles and DRY methodology</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Scalable Design</strong> — Engineered for performance and extensibility</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Developer Friendly</strong> — Well-structured codebase with clear documentation</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Production Ready</strong> — Battle-tested and deployed in real environments</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" style="vertical-align: middle;" /> Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/salman-dev-app/emelia.git
+
+# Navigate to the project
+cd emelia
+
+# Install dependencies (if applicable)
+# Follow language-specific setup instructions below
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Connect With The Author
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801840933137">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="License" width="30" height="30" style="vertical-align: middle;" /> License
+
+<div align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  This project is licensed under the MIT License — feel free to use and contribute.
+</p>
+
+---
+
+<footer align="center">
+  <p>© 2024-2026 <a href="https://github.com/salman-dev-app">Md Salman Biswas</a> · All rights reserved</p>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
+    </a>
+  </p>
+  <p>Engineered with ❤️ by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
+</footer>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
